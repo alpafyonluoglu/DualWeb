@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+
+  <style>
+    .invisible {
+      display: none;
+    }
+
+    .body {
+      width: 250px;
+    }
+    .primaryMode {background-color: #F2D59C;}
+    .secondaryMode {background-color: #D7AA8B;}
+    .icon {
+      width: 25px;
+      height: 25px;
+      float: right;
+      right: 8px;
+      top: 8px;
+      position: fixed;
+    }
+    .title {
+      font-family: 'Quicksand', sans-serif;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .text {
+      font-family: arial, sans-serif;
+      font-size: 13px;
+      margin-top: -10px;
+    }
+    .button {
+      float: right;
+      height: 28px;
+      padding-left: 10px;
+      padding-right: 10px;
+      right: 0px;
+      margin-bottom: 8px;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      font-size: 12px;
+      border-radius: 8px;
+      font-family: arial, sans-serif;
+    }
+  </style>
+</head>
+<body class="body" id="body">
+
+<img src="images/res/cookie-dark-128.png" class="icon" id="icon"/>
+
+<p class="title" id="title">Incompatible page</p>
+<p class="text" id="text">Dual web profiles cannot be applied to this page.</p>
+<button class="invisible" id="switchButton">Switch</button>
+
+<script src="popup.js"></script>
+</body>
+</html>
