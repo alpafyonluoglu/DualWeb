@@ -19,7 +19,7 @@ All collaborators are welcome to contribute to the project in any constructive w
 code of conduct.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE.md](/LICENSE) for details.
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE) for details.
 
 ## Contact
 Have something on your mind? You can always reach me at [afyonluoglualp@gmail.com](mailto:afyonluoglualp@gmail.com) for any suggestions and questions.
