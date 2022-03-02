@@ -22,4 +22,4 @@ code of conduct.
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE) for details.
 
 ## Contact
-Have something on your mind? You can always reach me at [afyonluoglualp@gmail.com](mailto:afyonluoglualp@gmail.com) for any suggestions and questions.
+Have something on your mind? You can always reach me via email or social media addresses given in my profile info for any suggestions and questions.
